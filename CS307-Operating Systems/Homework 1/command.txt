@@ -1,0 +1,1 @@
+man rm | grep "^ *-v" -w -A 1 > output.txt
